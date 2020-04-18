@@ -1,0 +1,22 @@
+{
+  "name": "geoda",
+  "version": "0.0.1-alpha.0",
+  "description": "A Node.js/WebAssembly wrapper for GeoDa",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeoDaCenter/node-geoda.git"
+  },
+  "keywords": [
+    "geoda",
+    "gis",
+    "spatial-analysis",
+    "geospatial"
+  ],
+  "author": "GeoDa Team <spatial@uchicago.edu>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/GeoDaCenter/node-geoda/issues"
+  },
+  "homepage": "https://github.com/GeoDaCenter/node-geoda#readme"
+}
